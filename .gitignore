@@ -1,0 +1,14 @@
+# Archivos temporales del sistema operativo e IDEs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Archivos temporales de Microsoft Office y pruebas auxiliares
+~$*
+test_table.docx
+
+# Registros y respaldos locales generados
+*.log
+backup_caipa_*.sql
